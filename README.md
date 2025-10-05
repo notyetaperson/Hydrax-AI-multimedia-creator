@@ -1,4 +1,4 @@
-# Hydrax-AI-multimedia-creator
+# Hydrax-AI-multimedia-suite
 # 🎤🎵🎬 Hydax AI - Complete Audio & Video Suite
 
 A powerful, realistic AI-powered Text-to-Speech engine, Music Generator, and Video Generator built with Python. This complete multimedia suite supports multiple AI models, voice cloning, emotion control, music generation, video creation, and real-time processing with beautiful web interfaces and a modern desktop GUI.
